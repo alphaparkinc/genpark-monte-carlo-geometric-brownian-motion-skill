@@ -1,0 +1,9 @@
+{
+  "name": "genpark-monte-carlo-geometric-brownian-motion-skill",
+  "version": "1.0.0",
+  "description": "Geometric Brownian Motion (GBM) Monte Carlo stochastic path simulation engine with normal Box-Muller variates and tail percentile bounds.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
