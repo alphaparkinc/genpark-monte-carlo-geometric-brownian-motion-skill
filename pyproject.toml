@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-monte-carlo-geometric-brownian-motion-skill"
+version = "1.0.0"
+description = "Geometric Brownian Motion (GBM) Monte Carlo stochastic path simulation engine with normal Box-Muller variates and tail percentile bounds."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
